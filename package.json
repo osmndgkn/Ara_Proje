@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mathjs": "^10.0.2",
+    "normal-distribution": "^1.1.1",
+    "react-toastify": "^8.1.0",
+    "recharts": "^2.1.8",
+    "statistics.js": "^1.0.0"
+  }
+}

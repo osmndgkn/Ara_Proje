@@ -1,0 +1,3 @@
+
+export const MODAL_HEADER = "KULLANIM KILAVUZU"
+export const MODAL_BODY = "Bu uygulama yazılım gereksinimlerinin kalitesini ölçmek için gerekli hesaplamaları yapar ve sonuçları kullanıcıya sunar. Sisteme yüklenen excel dosyalarının formatı aşağıda belirtildiği gibi olmalıdır. Gereksinim Ve Hedef : İlk satır hedef metriğinin ağırlıklarını içermelidir. İkinci satır gereksinim metriğinin ağırlıklarını içermelidir. Devam eden satırlarda gereksinim ve hedef metriklerinin ilişkisini gösteren ilişki matrisi yer almalıdır. Gereksinim Ve Kıstas: İlk satır kıstas metriğinin ağırlıklarını içermelidir. İkinci satır gereksinim metriğinin ağırlıklarını içermelidir. Devam eden satırlarda gereksinim ve kıstas metriklerinin ilişkisini gösteren ilişki matrisi yer almalıdır. "
